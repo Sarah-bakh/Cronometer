@@ -5,18 +5,35 @@ The Timer App is a simple yet powerful tool designed to work both as a stopwatch
 Features
 
     Start/Stop Timer:
+
         Click the Start button to begin the timer.
+
         Click the Stop button to pause the timer, which then changes to a Resume button to continue from where it was paused.
+
     Reset Timer:
+
         Click the Reset button to set the timer back to 0.
+
     Switch Between Stopwatch and Timer View:
+
         The Switch button lets you toggle between the stopwatch view and timer view, while the timer keeps running in the background.
+
     Display:
+
         Shows time in hours, minutes, and seconds.
+
     Exit:
+
         Click the Exit button to close the app.
+
+Screenshot
+
+Here is the main interface of the Cronometer app in Stopwatch mode:
 
 Technologies Used
 
     C#
+
     Windows Forms
+
+Let me know if you need anything else or if you'd like to adjust the text further!
